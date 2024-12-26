@@ -1,0 +1,3 @@
+Git hub is a remote repo
+Used to store our source code
+
