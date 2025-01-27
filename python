@@ -1,0 +1,6 @@
+1) Variable can be aplhanumeric
+2) Var can start with letter and _
+3) Var is case sensitive
+4) VAr cannot be key words- Key words are python specifc word
+5) Var cannot start with numbers
+
